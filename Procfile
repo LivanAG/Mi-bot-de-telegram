@@ -1,1 +1,1 @@
-web: python3 antoniobot.py 
+worker: python3 antoniobot.py 
