@@ -9,7 +9,7 @@ bot = telebot.TeleBot(API_TOKEN)
 def start(message):
     bot.send_message(
         message.chat.id,
-        'Bienvenido a SaasCountries_bot \n' +
+        'Bienvenido a mi bot \n' +
         '\n' +
         'Creado para complementar el artículo http://saasradar.net, que muestra el proceso de implementación de un Bot paso a paso \n' +
         '\n' +
